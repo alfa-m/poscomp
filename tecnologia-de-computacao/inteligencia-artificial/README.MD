@@ -1,0 +1,22 @@
+Conteúdos:
+
+- Linguagens Simbólicas
+- Programação em Lógica
+- Resolução de Problemas como Busca
+- Estratégias de Busca, Busca Cega e Busca Heurística
+- Hill climbing, best first, simulated annealing e Algoritmo A\*
+- Busca como Maximização de Função
+- Grafos And/Or
+- Esquemas para Representação do Conhecimento: Lógicos, em Rede, Estruturados, Procedurais
+- Sistemas de Produção com Encadeamento para a Frente e Encadeamento para trás
+- Raciocínio Não-Monotônico
+- Formalismos para a Representação de Conhecimento Incerto
+- A Regra de Bayes
+- Conjuntos e Lógica Fuzzy
+- Aprendizado de Máquina
+- Aprendizado Indutivo
+- Árvores de Decisão, Redes Neurais e Algoritmos Genéticos
+- Sistemas Especialistas
+- Processamento de Linguagem Natural
+- Agentes Inteligentes
+- Robótica
