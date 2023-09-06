@@ -1,9 +1,9 @@
 # Tópicos de Matemática
 
-- Álgebra Linear
-- Análise Combinatória
-- Cálculo Diferencial e Integral
-- Geometria Analítica
-- Lógica Matemática
-- Matemática Discreta
-- Probabilidade e Estatística
+- [Álgebra Linear](./algebra-linear/)
+- [Análise Combinatória](./analise-combinatoria/)
+- [Cálculo Diferencial e Integral](./calculo-diferencial-e-integral/)
+- [Geometria Analítica](./geometria-analitica/)
+- [Lógica Matemática](./logica-matematica/)
+- [Matemática Discreta](./matematica-discreta/)
+- [Probabilidade e Estatística](./probabilidade-e-estatistica/)

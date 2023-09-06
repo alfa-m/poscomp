@@ -1,0 +1,22 @@
+Conteúdos:
+
+- Sistemas de Equações Lineares: método de eliminação de Gauss para sistemas lineares
+- Espaços vetoriais
+- Subespaços
+- Bases
+- Somas Diretas
+- Introdução à Programação Linear
+- Transformações Lineares e Matrizes
+- Autovalores e Autovetores
+- Diagonalização
+- Espaços com Produto Interno
+- Bases Ortonormais
+- Projeções Ortogonais
+- Movimentos Rígidos
+- Método dos Mínimos Quadrados
+- Transformações em Espaços com Produto Interno
+- O Teorema da Representação para Funções Lineares
+- Adjunta de uma Transformação Linear
+- Operadores Simétricos, Unitários, Ortogonais e Normais
+- O Teorema Espectral
+- Formas Canônicas
